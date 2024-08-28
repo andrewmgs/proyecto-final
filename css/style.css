@@ -68,3 +68,42 @@ header {
     position: absolute;
     z-index: 1;
 }
+
+.caja {
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    background-color: #CDCDD233;
+  }
+
+  .iron {
+    background-color: #FFFFFF;
+    border: 5px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 15px;
+    width: 200px;
+  }
+  
+  .thor {
+    background-color: #FFFFFF;
+    border: 5px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 15px;
+    width: 200px;
+  }
+
+  .black {
+    background-color: #FFFFFF;
+    border: 5px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 15px;
+    width: 200px;
+  }
+
+  
