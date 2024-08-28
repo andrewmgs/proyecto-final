@@ -1,0 +1,70 @@
+header {
+    background-color: #000218;
+    ;
+}
+
+.header1 {
+
+}
+
+.header1 img {
+    width: 100px;
+    padding: 3% 10%;
+}
+
+.header2 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5% 10%;
+    justify-content: space-around;
+}
+
+.headertexto {
+    width: 310px;
+}
+
+.header2 h1 {
+    color: white;
+}
+
+.header2 p {
+    color: white;
+}
+
+.botones {
+    display: flex;
+}
+
+.shop {
+    background-color: red;
+    border-color: red;
+    border-radius: 5px;
+    color: white;
+    margin-right: 10px;
+    padding: 10px 30px;
+    
+}
+
+.add {
+    background-color: transparent;
+    border-color: red; 
+    border-radius: 5px;   
+    color: white;
+    padding: 10px 30px;
+}
+
+.gauntlet {
+    display: flex;
+    justify-content: center;
+    width: 320px;
+}
+
+.gauntlet img {
+    width: 150px;
+    z-index: 2;
+}
+
+.fondoguante {
+    position: absolute;
+    z-index: 1;
+}
