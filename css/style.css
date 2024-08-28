@@ -3,13 +3,12 @@ body {
     margin: 0px;
 }
 
+/*  Empieza header
+*/
+
 header {
     background-color: #000218;
     ;
-}
-
-.header1 {
-
 }
 
 .header1 img {
@@ -79,6 +78,10 @@ header {
 
 }
 
+/*  Termina la parte "header"
+    Empieza parte banner
+*/
+
 .banner {
     background-color: #000000;
     margin-top: 10px;
@@ -114,6 +117,10 @@ header {
     padding: 10px 5px;
 }
 
+/*  Termina la parte "banner"
+    Empieza footer
+*/
+
 footer {
     background-color: #323030;
     color: white;
@@ -131,3 +138,6 @@ footer {
     width: 20px;
     padding: 0px 10px;   
 }
+
+/*  Termina la parte footer
+*/
