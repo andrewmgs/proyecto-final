@@ -74,9 +74,45 @@ header {
     position: absolute;
     width: 100%;
     z-index: 1;
-    top: 40px;
 
 }
+
+.caja {
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    background-color: #CDCDD233;
+  }
+
+  .iron {
+    background-color: #FFFFFF;
+    border: 5px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 15px;
+    width: 200px;
+  }
+  
+  .thor {
+    background-color: #FFFFFF;
+    border: 5px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 15px;
+    width: 200px;
+  }
+
+  .black {
+    background-color: #FFFFFF;
+    border: 5px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 15px;
+    width: 200px;
+  }
 
 /*  Termina la parte "header"
     Empieza parte banner
@@ -138,6 +174,3 @@ footer {
     width: 20px;
     padding: 0px 10px;   
 }
-
-/*  Termina la parte footer
-*/
