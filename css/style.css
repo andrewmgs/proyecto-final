@@ -77,50 +77,72 @@ header {
 
 }
 
+/*  Termina la parte "header"
+    empieza "segundaparte"
+*/
+
+.segundaparte {
+    padding: 40px 0px;
+    background-color: #CDCDD233;
+}
+
+.perfect h1 {
+    padding-left: 50px;
+}
+
 .caja {
 
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly;
-
-    background-color: #CDCDD233;
-  }
+    
+    padding: 40px 0px;
+}
 
   .iron {
     background-color: #FFFFFF;
     border: 5px;
-    height: 200px;
     margin: 10px 0;
     padding: 15px;
     width: 200px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
+    
   }
   
   .thor {
     background-color: #FFFFFF;
     border: 5px;
-    height: 200px;
     margin: 10px 0;
     padding: 15px;
     width: 200px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
   }
 
   .black {
     background-color: #FFFFFF;
     border: 5px;
-    height: 200px;
     margin: 10px 0;
     padding: 15px;
     width: 200px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
   }
 
-/*  Termina la parte "header"
+  .caja img {
+    border-radius: 100%;
+  }
+
+  .caja h1 {
+    font-size: 25px;
+  }
+
+
+/*  termina "segunda parte"  
     Empieza parte banner
 */
 
 .banner {
     background-color: #000000;
-    margin-top: 10px;
 }
 
 .textobanner {
