@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
+    margin: 0px;    
 }
 
 /*  Empieza header
@@ -8,7 +8,6 @@ body {
 
 header {
     background-color: #000218;
-    ;
 }
 
 .header1 img {
